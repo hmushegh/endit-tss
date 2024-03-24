@@ -1,4 +1,4 @@
-**haykuhi test Endit-TSS software**
+**Endit-TSS software**
 
 Endit-TSS is an intermediate software that works in conjunction with the dCache ENDIT-Provider plugin and the TSS-client (IBM SP based tape client) which must be pre-installed and properly configured. It was used to efficiently write/flush and stage/retrieve files to and from the IBM SP tape storage system.
 
